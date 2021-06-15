@@ -1,1 +1,1 @@
-# twitterclone.git.io
+# twitterclone.github.io
